@@ -1,6 +1,5 @@
 # HappyTech
 
-<img width="545" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/a228bb7e-325f-40b1-8ee2-22d93d2329e1">
 
 A software for recruiters was developed as a part of the MOD003262 Software Engineering module, which will allow the creation, editing and deleting of a template. Instead of typing up multiple feedbacks for multiple applications and emailed to them after.
 
@@ -35,15 +34,14 @@ details.
 - Register applicants
 • As a user I also want to Register new applicant details into my system.
 
+# Class Diagram
+
+<img width="381" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/f0955c6c-badc-4312-8b37-72f5be93452f">
 
 # Database design
 
-<img width="639" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/7d7872df-88ae-47d7-a3d3-46b94059f1df">
-
-# Extended Entity relationship Design
-
-<img width="639" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/63b13a52-16a3-4df8-b247-5ec33f153f6c">
+<img width="427" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/8ce065ae-6935-4d44-a387-c9298b6dbfb0">
 
 # Use-case diagram
 
-<img width="561" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/b94fb0e6-a10e-4444-885b-637e1cdaee3f">
+<img width="427" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/3da0ce47-f4ba-414f-ad7f-39635cfa3171">
