@@ -1,9 +1,8 @@
 # HappyTech
-MOD003262 Software Engineering 
 
 <img width="545" alt="image" src="https://github.com/srijachatterjee19/HappyTech/assets/84346422/a228bb7e-325f-40b1-8ee2-22d93d2329e1">
 
-A software for recruiters developed which will allow the creation, editing and deleting of a template. Instead of typing up multiple feedbacks for multiple applications and emailed to them after.
+A software for recruiters was developed as a part of the MOD003262 Software Engineering module, which will allow the creation, editing and deleting of a template. Instead of typing up multiple feedbacks for multiple applications and emailed to them after.
 
 The system is can to create, edit and delete a template upon the user’s request. If a template is created, it should has a header. This header will holds the information about the applicant the feedback is being drafted for, the user drafting the feedback and the purpose of the feedback.
 The template has sections with each section holding a title and a list of codes. These codes have either a textbox or radio buttons next to them to allow users to select. When a code is selected, the system should generate feedback. A textbox should be provided to allow free commenting by the user.
